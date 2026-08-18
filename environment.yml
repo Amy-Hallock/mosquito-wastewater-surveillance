@@ -1,0 +1,16 @@
+name: mosquito-wastewater-env
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - python=3.10
+  - bwa-mem2
+  - samtools
+  - bcftools
+  - bedtools
+  - pandas
+  - numpy
+  - scipy
+  - statsmodels
+  - matplotlib
+  - jupyter
